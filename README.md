@@ -1,5 +1,4 @@
-
-<h1 align="center">Hi 👋, </h1>
+<h1 align="center">Hi 👋, I'm Naniprasad</h1>
 <h3 align="center">Backend Developer | FastAPI | PostgreSQL | System Design</h3>
 
 <p align="center">
@@ -10,11 +9,11 @@
 
 ## 🚀 About Me
 
-* 🔭 Currently building **Backend APIs**
+* 🔭 Currently building **Backend APIs & Scalable Systems**
 * 🌱 Learning **FastAPI, System Design, Docker, DevOps**
 * 💬 Ask me about **Python, SQL, APIs**
-* 📫 Reach me: **[varunsuddala446@gmail.com](mailto:varunsuddala446@gmail.com)**
-* 🌐 Portfolio: **https://varunsuddala.me**
+* 📫 Reach me: **[your-email@gmail.com](mailto:your-email@gmail.com)**
+* 🌐 Portfolio: **https://your-portfolio-link.com**
 
 ---
 
@@ -22,7 +21,7 @@
 
 <p align="left">
 <a href="https://linkedin.com/in/your-linkedin"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-<a href="https://github.com/varunsuddala"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
+<a href="https://github.com/Naniprasad2227"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
 </p>
 
 ---
@@ -38,11 +37,10 @@
 ## ⚡ Backend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=fastapi,node.js" />
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs" />
 </p>
 
 ---
-
 
 ## 🗄️ Databases
 
@@ -63,7 +61,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=varunsuddala&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Naniprasad2227&show_icons=true&theme=tokyonight"/>
 </p>
 
 ---
@@ -71,7 +69,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=varunsuddala&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Naniprasad2227&theme=tokyonight"/>
 </p>
 
 ---
@@ -79,7 +77,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=varunsuddala&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Naniprasad2227&theme=tokyo-night"/>
 </p>
 
 ---
@@ -93,4 +91,4 @@
 
 ---
 
-⭐️ From [Varun Suddala](https://github.com/varunsuddala)
+⭐️ From [Naniprasad](https://github.com/Naniprasad2227)
