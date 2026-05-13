@@ -44,7 +44,11 @@ Backend Developer | FastAPI | PostgreSQL | System Design
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,java" />
+  
 </p>
+  ## 👨‍💻Python Libraries
+  <p> <img src="https://skillicons.dev/icons?i=Numpy,Pandas,seaborn,mathplot,scipy,sklearn" /></p>
+
 
 ---
 
@@ -79,8 +83,8 @@ Backend Developer | FastAPI | PostgreSQL | System Design
 > Complaint management platform with tracking and workflow handling.
 
 ### Tech Used:
-- FastAPI
-- PostgreSQL
+- NodeJs
+- MongoDB
 - HTML/CSS
 - JavaScript
 
@@ -122,7 +126,6 @@ https://github.com/Naniprasad2227/AI-Resume-Analyzer-Job-Matcher
 
 # 🧠 Currently Working On
 
-- ⚡ FastAPI Backend Projects
 - ⚡ System Design Practice
 - ⚡ SQL Optimization
 - ⚡ DevOps Fundamentals
