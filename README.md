@@ -43,7 +43,7 @@ Backend Developer | FastAPI | PostgreSQL | System Design
 ## 👨‍💻 Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,javascript" />
+  <img src="https://skillicons.dev/icons?i=python,java" />
 </p>
 
 ---
@@ -51,7 +51,7 @@ Backend Developer | FastAPI | PostgreSQL | System Design
 ## ⚡ Backend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi,nodejs" />
+  <img src="https://skillicons.dev/icons?i=,nodejs" />
 </p>
 
 ---
