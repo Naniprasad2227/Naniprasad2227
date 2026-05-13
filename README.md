@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Macharla Naniprasad</h1>
 
 <h3 align="center">
-Aspiring Software Engineer | Backend Developer | DSA Enthusiast
+Aspiring Software Engineer | Web Developer | Backend Developer | Machine Learning Enthusiast
 </h3>
 
 <p align="center">
@@ -17,8 +17,8 @@ Passionate about building backend-driven applications, scalable APIs, and solvin
 # 🚀 About Me
 
 - 🎓 Computer Science undergraduate at **SR University**
-- 💻 Solved **450+ DSA problems** across coding platforms
-- 🔥 Interested in **Backend Development & Software Engineering**
+- 💻 Solved **450+ DSA problems** across all coding platforms together 
+- 🔥 Interested in **Software Engineering**
 - 🌱 Learning **FastAPI, System Design & Scalable APIs**
 - ⚡ Strong foundation in **Data Structures & Algorithms**
 - 📫 Reach me at: **naniprasadcharla@gmail.com**
@@ -68,7 +68,7 @@ Passionate about building backend-driven applications, scalable APIs, and solvin
 ## 👨‍💻 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java)" />
+  <img src="https://skillicons.dev/icons?i=python,java" />
 </p>
 
 ---
@@ -120,16 +120,16 @@ Passionate about building backend-driven applications, scalable APIs, and solvin
 - NumPy
 - Scikit-Learn
 - Jupyter Notebook
-- scientific Python
-- seaborn
-- matplotlib
+- SciPy
+- Seaborn
+- Matplotlib
 
 ---
 
 # 🧠 Coding Profiles
 
 - ✅ Solved **450+ DSA Problems**
-- ✅ Strong understanding of arrays, strings, recursion & graph algorithms
+- ✅ Strong understanding of arrays, strings, recursion,trees & graph algorithms
 
 <p align="left">
 
@@ -190,6 +190,9 @@ https://github.com/Naniprasad2227/AI-Resume-Analyzer-Job-Matcher
 - Built backend-integrated web modules using Python and REST APIs
 - Improved debugging and code structuring practices
 
+📄 Certificate:  
+https://drive.google.com/file/d/1IQ0UpgPeyODhH8lkr4kFvk1xDHnz1pbc/view
+
 ---
 
 ## 🔹 British Airways Data Science Simulation
@@ -197,13 +200,31 @@ https://github.com/Naniprasad2227/AI-Resume-Analyzer-Job-Matcher
 - Performed data cleaning and analysis using Python
 - Derived actionable insights from structured datasets
 
+📄 Certificate:  
+https://drive.google.com/file/d/1Lft4i2sxin8ANssqUGaJbFlJLo1BdJ-m/view
+
 ---
 
 # 🏆 Certifications
 
-- ✅ Python Essentials — Cisco
-- ✅ AWS Cloud Computing — AWS Academy
-- ✅ Git & GitHub — Microsoft
+## ✅ Python Essentials — Cisco
+
+📄 View Certificate:  
+https://drive.google.com/file/d/15KFmmmjHw0d3trpRfz2Ey2XxrzURxfBL/view
+
+---
+
+## ✅ AWS Cloud Computing — AWS Academy
+
+📄 View Certificate:  
+https://drive.google.com/file/d/1j0s1nsxN0QHT86PBv1cCwf5mOPvN7VlH/view
+
+---
+
+## ✅ Git & GitHub — Microsoft
+
+📄 View Certificate:  
+https://drive.google.com/file/d/1PXINUH0HiQBI28z0cfu_Ho9Wr4Aw73yy/view
 
 ---
 
