@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Macharla Naniprasad</h1>
 
 <h3 align="center">
-Aspiring Software Engineer | Backend Developer | AI & ML Enthusiast
+Aspiring Software Engineer | Backend Developer | DSA Enthusiast
 </h3>
 
 <p align="center">
-Passionate about building scalable backend systems, AI-powered applications, and clean APIs.
+Passionate about building backend-driven applications, scalable APIs, and solving real-world problems through software engineering.
 </p>
 
 <p align="center">
@@ -16,12 +16,12 @@ Passionate about building scalable backend systems, AI-powered applications, and
 
 # 🚀 About Me
 
-- 🔭 Currently building **Backend APIs & AI-powered Systems**
-- 🌱 Learning **FastAPI, Docker, DevOps & System Design**
-- 💬 Ask me about **Python, SQL, REST APIs, Machine Learning**
-- ⚡ Solved **450+ DSA problems** across coding platforms
-- 🎯 Focused on **clean architecture and scalable systems**
-- 📫 Reach me: **naniprasadcharla@gmail.com**
+- 🎓 Computer Science undergraduate at **SR University**
+- 💻 Solved **450+ DSA problems** across coding platforms
+- 🔥 Interested in **Backend Development & Software Engineering**
+- 🌱 Learning **FastAPI, System Design & Scalable APIs**
+- ⚡ Strong foundation in **Data Structures & Algorithms**
+- 📫 Reach me at: **naniprasadcharla@gmail.com**
 
 ---
 
@@ -45,9 +45,27 @@ Passionate about building scalable backend systems, AI-powered applications, and
 
 ---
 
-# 💻 Tech Stack
+# 👨‍🎓 Education
 
-## 👨‍💻 Programming Languages
+## 🎓 SR University
+
+**B.Tech in Computer Science Engineering**  
+📅 Aug 2024 – Present  
+📊 CGPA: **7.34**
+
+---
+
+## 🎓 SVS Group of Institutions
+
+**Diploma in Computer Science Engineering**  
+📅 Sep 2021 – Apr 2024  
+📊 CGPA: **9.02**
+
+---
+
+# 💻 Technical Skills
+
+## 👨‍💻 Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,javascript" />
@@ -55,15 +73,18 @@ Passionate about building scalable backend systems, AI-powered applications, and
 
 ---
 
-## ⚡ Backend Development
+## ⚡ Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,express" />
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express" />
 </p>
+
+- REST APIs
+- JWT Authentication
 
 ---
 
-## 🌐 Frontend Development
+## 🌐 Frontend
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,javascript" />
@@ -74,68 +95,69 @@ Passionate about building scalable backend systems, AI-powered applications, and
 ## 🗄️ Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
 ---
 
-## ☁️ Cloud & DevOps
+## 📚 Core Concepts
 
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,aws,linux,git,github" />
-</p>
+- Data Structures
+- Algorithms
+- Object-Oriented Programming (OOP)
+- Recursion
+- Graph Algorithms
 
 ---
 
-## 📊 Data Science & Machine Learning
+## 📊 Libraries & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
-- NumPy
 - Pandas
+- NumPy
 - Scikit-Learn
-- SciPy
-- Matplotlib
-- Seaborn
+- Jupyter Notebook
 
 ---
 
-# 🧠 Data Structures & Algorithms
+# 🧠 Coding Profiles
 
 - ✅ Solved **450+ DSA Problems**
-- ✅ Strong in:
-  - Arrays
-  - Strings
-  - Recursion
-  - Binary Trees
-  - Dynamic Programming
-  - Graph Basics
-  - Sliding Window
-  - Stack & Queue
+- ✅ Strong understanding of arrays, strings, recursion & graph algorithms
+
+<p align="left">
+
+<a href="https://leetcode.com/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/" target="_blank">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-darkgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/" target="_blank">
+  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
-# 📂 Featured Projects
+# 📂 Projects
 
 ## 🔹 Smart Complaint System
 
-> Full-stack complaint management platform with tracking and workflow handling.
+> Full-stack complaint management system using Node.js, Express.js, and MongoDB.
 
-### 🚀 Tech Used:
-- Node.js
-- Express.js
-- MongoDB
-- HTML/CSS
-- JavaScript
-
-### ✨ Features:
-- Complaint Tracking
-- User Management
-- Status Updates
+### ⚙️ Features
+- Complaint tracking
+- User management
+- Status updates
 - JWT Authentication
-- Role-Based Access
+- Role-based access control
 
 🔗 Live Project:  
 https://smart-complaint-system-a87sz1ehw-naniprasad2227s-projects.vercel.app/
@@ -144,22 +166,41 @@ https://smart-complaint-system-a87sz1ehw-naniprasad2227s-projects.vercel.app/
 
 ## 🔹 AI Resume Analyzer & Job Matcher
 
-> GenAI-based resume analyzer with ATS scoring and intelligent job-role matching.
+> GenAI-powered resume analyzer using LLM APIs and NLP.
 
-### 🚀 Tech Used:
-- Python
-- NLP
-- LLM APIs
-- Resume Parsing
-
-### ✨ Features:
-- ATS Resume Scoring
-- Skill Gap Analysis
-- Job Matching
-- Personalized Suggestions
+### ⚙️ Features
+- ATS score analysis
+- Skill gap analysis
+- Resume parsing
+- Job-role matching
+- Personalized recommendations
 
 🔗 GitHub Repo:  
 https://github.com/Naniprasad2227/AI-Resume-Analyzer-Job-Matcher
+
+---
+
+# 💼 Internships
+
+## 🔹 Full Stack Python Virtual Internship — EduSkills
+
+- Built backend-integrated web modules using Python and REST APIs
+- Improved debugging and code structuring practices
+
+---
+
+## 🔹 British Airways Data Science Simulation
+
+- Performed data cleaning and analysis using Python
+- Derived actionable insights from structured datasets
+
+---
+
+# 🏆 Certifications
+
+- ✅ Python Essentials — Cisco
+- ✅ AWS Cloud Computing — AWS Academy
+- ✅ Git & GitHub — Microsoft
 
 ---
 
@@ -172,57 +213,6 @@ https://github.com/Naniprasad2227/AI-Resume-Analyzer-Job-Matcher
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Naniprasad2227&theme=tokyonight" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Naniprasad2227&theme=tokyo-night" />
-</p>
-
----
-
-# 🏆 Certifications
-
-- ✅ Python Essentials — Cisco
-- ✅ AWS Cloud Computing — AWS Academy
-- ✅ Cisco Networking — Cisco
-- ✅ Git & GitHub — Microsoft
-
----
-
-# 💼 Internships & Experience
-
-## 🔹 Full Stack Python Virtual Internship — EduSkills
-
-- Worked on backend-integrated web modules
-- Built REST API-based applications
-- Improved debugging and project structuring skills
-
----
-
-## 🔹 British Airways Data Science Simulation
-
-- Performed data cleaning and analysis
-- Derived business insights using Python
-- Worked on real-world analytical tasks
-
----
-
-# 🎯 Goals for 2026
-
-- 🚀 Become a strong Software Engineer
-- 🚀 Master Backend Development
-- 🚀 Learn Kubernetes & DevOps
-- 🚀 Build production-ready scalable systems
-- 🚀 Crack top SDE internships
-
----
-
-# 🧠 Currently Working On
-
-- ⚡ FastAPI Projects
-- ⚡ System Design Practice
-- ⚡ SQL Optimization
-- ⚡ AI-powered Applications
-- ⚡ Scalable API Architectures
 
 ---
 
