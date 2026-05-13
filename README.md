@@ -51,7 +51,7 @@ Passionate about building backend-driven applications, scalable APIs, and solvin
 
 **B.Tech in Computer Science Engineering**  
 📅 Aug 2024 – Present  
-📊 CGPA: **7.34**
+📊 CGPA: **7.7**
 
 ---
 
@@ -68,7 +68,7 @@ Passionate about building backend-driven applications, scalable APIs, and solvin
 ## 👨‍💻 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,javascript" />
+  <img src="https://skillicons.dev/icons?i=python,java)" />
 </p>
 
 ---
@@ -76,7 +76,7 @@ Passionate about building backend-driven applications, scalable APIs, and solvin
 ## ⚡ Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
 - REST APIs
@@ -120,6 +120,9 @@ Passionate about building backend-driven applications, scalable APIs, and solvin
 - NumPy
 - Scikit-Learn
 - Jupyter Notebook
+- scientific Python
+- seaborn
+- matplotlib
 
 ---
 
