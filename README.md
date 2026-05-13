@@ -1,156 +1,144 @@
-<h1 align="center">Hi 👋, I'm Naniprasad</h1>
 
-<h3 align="center">
-Backend Developer | FastAPI | PostgreSQL | System Design
-</h3>
+# Macharla Naniprasad
 
-<p align="center">
-  Passionate about building scalable backend systems and clean APIs.
-</p>
+📞 +91 9014920173  
+📧 naniprasadcharla@gmail.com  
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Naniprasad2227&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+- [LinkedIn](https://www.linkedin.com/in/naniprasad-macharla/)
+- [GitHub](https://github.com/Naniprasad2227)
+- [LeetCode](https://leetcode.com/)
+- [GeeksforGeeks](https://www.geeksforgeeks.org/)
+- [HackerRank](https://www.hackerrank.com/)
 
 ---
 
-# 🚀 About Me
+# Summary
 
-- 🔭 Currently building **Backend APIs & Scalable Systems**
-- 🌱 Learning **FastAPI, Docker, DevOps & System Design**
-- 💬 Ask me about **Python, SQL, APIs, Backend Development**
-- ⚡ Focused on **clean architecture and scalable systems**
-- 📫 Reach me: **naniprasadcharla@gmail.com**
+Computer Science undergraduate with strong foundations in Data Structures and Algorithms, having solved 450+ coding problems across LeetCode, GeeksforGeeks, and HackerRank. Experienced in building backend-driven web applications using REST APIs and databases. Passionate about scalable backend systems and seeking Software Development Engineer (SDE) Internship opportunities.
 
 ---
 
-# 🌐 Connect With Me
+# Education
 
-<p align="left">
-<a href="https://github.com/Naniprasad2227" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" height="45"/>
-</a>
+## SR University
+**B.Tech in Computer Science Engineering**  
+Aug 2024 – Present  
+CGPA: 7.34  
 
-<a href="https://www.linkedin.com/in/naniprasad-macharla/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-</a>
-</p>
-
----
-
-# 💻 Tech Stack
-
-## 👨‍💻 Programming Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java" />
-  
-</p>
-  ## 👨‍💻Python Libraries
-  <p> <img src="https://skillicons.dev/icons?i=Numpy,Pandas,seaborn,mathplot,scipy,sklearn" /></p>
-
+## SVS Group of Institutions
+**Diploma in Computer Science Engineering**  
+Sep 2021 – Apr 2024  
+CGPA: 9.02  
 
 ---
 
-## ⚡ Backend Development
+# Technical Skills
 
-<p>
-  <img src="https://skillicons.dev/icons?i=,nodejs" />
-</p>
-
----
-
-## 🗄️ Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
-</p>
-
----
-
-## ☁️ Cloud & DevOps
-
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,aws,linux,git,github" />
-</p>
-
----
-
-# 📂 Featured Projects
-
-## 🔹 Smart Complaint System
-
-> Complaint management platform with tracking and workflow handling.
-
-### Tech Used:
-- NodeJs
-- MongoDB
-- HTML/CSS
+### Languages
+- Python
+- Java
 - JavaScript
+
+### Backend
+- FastAPI
+- REST APIs
+- Node.js
+- Express.js
+
+### Frontend
+- HTML
+- CSS
+- JavaScript
+
+### Databases
+- MySQL
+- MongoDB
+- PostgreSQL
+
+### Core CS
+- Data Structures
+- Algorithms
+- Object-Oriented Programming
+- DBMS
+
+### Libraries
+- Pandas
+- NumPy
+- Scikit-learn
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- Jupyter Notebook
+
+---
+
+# Data Structures & Algorithms
+
+- Solved 450+ coding problems across LeetCode, GeeksforGeeks, and HackerRank
+- Strong understanding of Arrays, Strings, Linked Lists, Trees, Recursion, and Graph fundamentals
+- Practicing Dynamic Programming and advanced problem-solving techniques
+
+---
+
+# Projects
+
+## AI Resume Analyzer & Job Matcher
+**Tech Stack:** Python, NLP, LLM APIs
+
+- Developed a GenAI-powered resume analyzer using LLM APIs for ATS scoring and skill gap analysis
+- Implemented NLP-based resume parsing and job-role matching system
+- Generated personalized recommendations to improve resume relevance and job alignment
+
+🔗 GitHub Repository:  
+https://github.com/Naniprasad2227/AI-Resume-Analyzer-Job-Matcher
+
+---
+
+## Smart Complaint System
+**Tech Stack:** Node.js, Express.js, MongoDB
+
+- Designed and developed a full-stack complaint management platform supporting complaint tracking and workflow management
+- Developed secure REST APIs using Express.js and MongoDB
+- Implemented JWT authentication and role-based authorization
+- Improved complaint handling efficiency through status tracking modules
 
 🔗 Live Project:  
 https://smart-complaint-system-a87sz1ehw-naniprasad2227s-projects.vercel.app/
 
 ---
 
-## 🔹 AI Resume Analyzer & Job Matcher
+# Internships
 
-> GenAI-based resume analyzer with ATS scoring and job-role matching.
+## Full Stack Python Virtual Internship — EduSkills
 
-### Tech Used:
-- Python
-- NLP
-- LLM APIs
-- Resume Parsing
-
-🔗 GitHub Repo:  
-https://github.com/Naniprasad2227/AI-Resume-Analyzer-Job-Matcher
+- Built backend-integrated web modules using Python and REST APIs
+- Improved debugging and code structuring practices through hands-on tasks
 
 ---
 
-# 📊 GitHub Stats
+## British Airways Data Science Simulation
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Naniprasad2227&show_icons=true&theme=tokyonight" />
-</p>
+Jan 2026
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Naniprasad2227&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Naniprasad2227&theme=tokyo-night" />
-</p>
+- Performed data cleaning and analysis on structured datasets using Python
+- Derived actionable insights supporting business decision scenarios
 
 ---
 
-# 🧠 Currently Working On
+# Certifications
 
-- ⚡ System Design Practice
-- ⚡ SQL Optimization
-- ⚡ DevOps Fundamentals
-- ⚡ Scalable API Architectures
-
----
-
-# 🏆 Certifications
-
-- ✅ Python Essentials — Cisco
-- ✅ AWS Cloud Computing — AWS Academy
-- ✅ Cisco Networking — Cisco
-- ✅ GitHub Fundamentals — Microsoft
+- Python Essentials — Cisco
+- AWS Cloud Computing — AWS Academy
+- Git & GitHub — Microsoft
 
 ---
 
-# 🎯 Goals for 2026
+# Goals
 
-- 🚀 Become a strong Backend Engineer
-- 🚀 Master System Design
-- 🚀 Learn Kubernetes & DevOps
-- 🚀 Build production-ready scalable systems
-
----
-
-<p align="center">
-⭐️ From <a href="https://github.com/Naniprasad2227">Naniprasad</a>
-</p>
+- Become a strong Backend Engineer
+- Master System Design
+- Learn Docker & DevOps
+- Build scalable production-ready systems
+```
