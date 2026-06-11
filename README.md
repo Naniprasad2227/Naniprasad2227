@@ -1,27 +1,31 @@
 <h1 align="center">Hi 👋, I'm Macharla Naniprasad</h1>
 
 <h3 align="center">
-Aspiring Software Engineer | Web Developer | Backend Developer | Machine Learning Enthusiast
+Full-Stack Developer | MERN Stack Developer | Software Engineering Enthusiast
 </h3>
 
 <p align="center">
-Passionate about building backend-driven applications, scalable APIs, and solving real-world problems through software engineering.
+Passionate about building scalable web applications, RESTful APIs, backend systems, and AI-powered solutions.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Naniprasad2227&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+<a href="https://github.com/Naniprasad2227">
+<img src="https://komarev.com/ghpvc/?username=Naniprasad2227&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</a>
 </p>
 
 ---
 
 # 🚀 About Me
 
-- 🎓 Computer Science undergraduate at **SR University**
-- 💻 Solved **450+ DSA problems** across all coding platforms together 
-- 🔥 Interested in **Software Engineering**
-- 🌱 Learning **FastAPI, System Design & Scalable APIs**
-- ⚡ Strong foundation in **Data Structures & Algorithms**
-- 📫 Reach me at: **naniprasadcharla@gmail.com**
+* 🎓 B.Tech Computer Science Engineering Student at **SR University**
+* 📊 Current CGPA: **7.70**
+* 🎓 Diploma in Computer Science Engineering (CGPA: **9.02**)
+* 💻 Full-Stack Developer specializing in the **MERN Stack**
+* 🔥 Interested in **Software Engineering, Backend Development, System Design & AI Applications**
+* 🌱 Currently Learning **FastAPI, Advanced Backend Development & System Design**
+* ⚡ Strong Foundation in **Data Structures, Algorithms, OOP, DBMS, OS & Computer Networks**
+* 📫 Reach Me At: **[naniprasadcharla@gmail.com](mailto:naniprasadcharla@gmail.com)**
 
 ---
 
@@ -30,15 +34,15 @@ Passionate about building backend-driven applications, scalable APIs, and solvin
 <p align="left">
 
 <a href="https://github.com/Naniprasad2227" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" height="45"/>
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
 </a>
 
 <a href="https://www.linkedin.com/in/naniprasad-macharla/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
 <a href="mailto:naniprasadcharla@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
 
 </p>
@@ -49,136 +53,123 @@ Passionate about building backend-driven applications, scalable APIs, and solvin
 
 ## 🎓 SR University
 
-**B.Tech in Computer Science Engineering**  
-📅 Aug 2024 – Present  
-📊 CGPA: **7.7**
+**B.Tech in Computer Science Engineering**
+📅 2024 – Present
+📊 CGPA: **7.70**
 
 ---
 
 ## 🎓 SVS Group of Institutions
 
-**Diploma in Computer Science Engineering**  
-📅 Sep 2021 – Apr 2024  
+**Diploma in Computer Science Engineering**
+📅 2021 – 2024
 📊 CGPA: **9.02**
 
 ---
 
 # 💻 Technical Skills
 
-## 👨‍💻 Languages
+## 👨‍💻 Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java" />
+<img src="https://skillicons.dev/icons?i=java,python,javascript" />
 </p>
 
 ---
 
-## ⚡ Backend
+## 🌐 Frontend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
 </p>
-
-- REST APIs
-- JWT Authentication
 
 ---
 
-## 🌐 Frontend
+## ⚡ Backend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript" />
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
+
+* RESTful APIs
+* JWT Authentication
+* MVC Architecture
 
 ---
 
 ## 🗄️ Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
 ---
 
-## 📚 Core Concepts
-
-- Data Structures
-- Algorithms
-- Object-Oriented Programming (OOP)
-- Recursion
-- Graph Algorithms
-
----
-
-## 📊 Libraries & Tools
+## 🛠️ Tools & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
-
-- Pandas
-- NumPy
-- Scikit-Learn
-- Jupyter Notebook
-- SciPy
-- Seaborn
-- Matplotlib
-
----
-
-# 🧠 Coding Profiles
-
-- ✅ Solved **450+ DSA Problems**
-- ✅ Strong understanding of arrays, strings, recursion,trees & graph algorithms
-
-<p align="left">
-
-<a href="https://leetcode.com/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://www.geeksforgeeks.org/" target="_blank">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-darkgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-
-<a href="https://www.hackerrank.com/" target="_blank">
-  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 ---
 
-# 📂 Projects
+## 📚 Core Computer Science Concepts
 
-## 🔹 Smart Complaint System
+* Data Structures & Algorithms
+* Object-Oriented Programming
+* Database Management Systems
+* Operating Systems
+* Computer Networks
+* Software Engineering
+* RESTful API Development
+* System Design Fundamentals
 
-> Full-stack complaint management system using Node.js, Express.js, and MongoDB.
+---
 
-### ⚙️ Features
-- Complaint tracking
-- User management
-- Status updates
-- JWT Authentication
-- Role-based access control
+# 📂 Featured Projects
 
-🔗 Live Project:  
+## 🔹 Complaint Management System
+
+Full-stack complaint tracking and resolution platform built using the MERN Stack.
+
+### Features
+
+* Complaint Registration & Tracking
+* Role-Based Access Control
+* Admin Dashboard
+* JWT Authentication
+* Complaint Analytics
+* Status Monitoring
+
+### Tech Stack
+
+React.js • Node.js • Express.js • MongoDB
+
+### Live Demo
+
 https://smart-complaint-system-a87sz1ehw-naniprasad2227s-projects.vercel.app/
 
 ---
 
 ## 🔹 AI Resume Analyzer & Job Matcher
 
-> GenAI-powered resume analyzer using LLM APIs and NLP.
+AI-powered ATS Resume Analyzer and Intelligent Job Matching Platform.
 
-### ⚙️ Features
-- ATS score analysis
-- Skill gap analysis
-- Resume parsing
-- Job-role matching
-- Personalized recommendations
+### Features
 
-🔗 GitHub Repo:  
+* ATS Score Analysis
+* Resume Parsing
+* Skill Gap Detection
+* Job Matching
+* Personalized Recommendations
+* AI-Powered Insights
+
+### Tech Stack
+
+React.js • Node.js • MongoDB • Python • AI APIs
+
+### GitHub Repository
+
 https://github.com/Naniprasad2227/AI-Resume-Analyzer-Job-Matcher
 
 ---
@@ -187,20 +178,22 @@ https://github.com/Naniprasad2227/AI-Resume-Analyzer-Job-Matcher
 
 ## 🔹 Full Stack Python Virtual Internship — EduSkills
 
-- Built backend-integrated web modules using Python and REST APIs
-- Improved debugging and code structuring practices
+* Developed backend-integrated web modules using Python
+* Worked with APIs and web application development
+* Improved debugging and software engineering practices
 
-📄 Certificate:  
+📄 Certificate:
 https://drive.google.com/file/d/1IQ0UpgPeyODhH8lkr4kFvk1xDHnz1pbc/view
 
 ---
 
-## 🔹 British Airways Data Science Simulation
+## 🔹 British Airways Data Science Job Simulation
 
-- Performed data cleaning and analysis using Python
-- Derived actionable insights from structured datasets
+* Performed data cleaning and analysis using Python
+* Generated actionable business insights
+* Worked with structured datasets and reporting
 
-📄 Certificate:  
+📄 Certificate:
 https://drive.google.com/file/d/1Lft4i2sxin8ANssqUGaJbFlJLo1BdJ-m/view
 
 ---
@@ -209,37 +202,47 @@ https://drive.google.com/file/d/1Lft4i2sxin8ANssqUGaJbFlJLo1BdJ-m/view
 
 ## ✅ Python Essentials — Cisco
 
-📄 View Certificate:  
+📄 Certificate:
 https://drive.google.com/file/d/15KFmmmjHw0d3trpRfz2Ey2XxrzURxfBL/view
 
 ---
 
 ## ✅ AWS Cloud Computing — AWS Academy
 
-📄 View Certificate:  
+📄 Certificate:
 https://drive.google.com/file/d/1j0s1nsxN0QHT86PBv1cCwf5mOPvN7VlH/view
 
 ---
 
 ## ✅ Git & GitHub — Microsoft
 
-📄 View Certificate:  
+📄 Certificate:
 https://drive.google.com/file/d/1PXINUH0HiQBI28z0cfu_Ho9Wr4Aw73yy/view
 
 ---
 
-# 📊 GitHub Stats
+# 📈 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Naniprasad2227&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=Naniprasad2227&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Naniprasad2227&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Naniprasad2227&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naniprasad2227&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
+# 🎯 Career Objective
+
+Aspiring Software Engineer focused on building scalable web applications, backend systems, and AI-powered solutions while continuously improving problem-solving and software engineering skills.
+
+---
+
 <p align="center">
-⭐️ From <a href="https://github.com/Naniprasad2227">Macharla Naniprasad</a>
+⭐ From <a href="https://github.com/Naniprasad2227">Macharla Naniprasad</a>
 </p>
