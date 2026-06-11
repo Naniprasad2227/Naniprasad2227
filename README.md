@@ -1,6 +1,6 @@
 # Macharla Naniprasad
 
-### Full-Stack Developer | MERN Stack Developer | Software Engineering Enthusiast
+### Full-Stack Developer | MERN Stack Developer | Software 
 
 Passionate about building scalable web applications, RESTful APIs, backend systems, and AI-powered solutions.
 
